@@ -1,4 +1,3 @@
 # 自建规则直连
+DOMAIN,sziko.eu.org
 DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,zt.sec.com.cn
-DOMAIN-SUFFIX,sziko.eu.org
