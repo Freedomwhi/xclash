@@ -1,2 +1,2 @@
-DOMAIN-SUFFIX,*.cloudflare.com
-DOMAIN-SUFFIX,*.zt.sec.com.cn
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,zt.sec.com.cn
