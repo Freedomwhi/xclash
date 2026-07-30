@@ -1,3 +1,14 @@
 # 自建规则直连
+#办公
 DOMAIN-SUFFIX,sechh.com
 DOMAIN-SUFFIX,sec.com.cn
+#个人常用
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,pinduoduo.com
+#科技
+DOMAIN-SUFFIX,speedtest.cn
