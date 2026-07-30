@@ -1,4 +1,4 @@
-# 自建规则直连
+# 以下自建规则均直接直连，不走代理，不参与匹配规则：
 #办公
 DOMAIN-SUFFIX,sechh.com
 DOMAIN-SUFFIX,sec.com.cn
