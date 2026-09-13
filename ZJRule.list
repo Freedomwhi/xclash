@@ -1,20 +1,20 @@
 # 以下自建规则均直接直连，不走代理，不参与匹配规则：
 # 尚未研究明白，尤其是将本页规则放在主规则第一行时，与aTrust搭配时，aTrust显示无网络，此项目暂时搁置。
 #办公
-DOMAIN-SUFFIX,sechh.com
-DOMAIN-SUFFIX,sec.com.cn
+#DOMAIN-SUFFIX,sechh.com
+#DOMAIN-SUFFIX,sec.com.cn
 #个人常用
-DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,163.com
-DOMAIN-SUFFIX,sogou.com
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,yuque.com
-DOMAIN-SUFFIX,douyin.com
-DOMAIN-SUFFIX,xiaohongshu.com
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,deepseek.com
-DOMAIN-SUFFIX,jd.com
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,pinduoduo.com
+#DOMAIN-SUFFIX,qq.com
+#DOMAIN-SUFFIX,163.com
+#DOMAIN-SUFFIX,sogou.com
+#DOMAIN-SUFFIX,baidu.com
+#DOMAIN-SUFFIX,yuque.com
+#DOMAIN-SUFFIX,douyin.com
+#DOMAIN-SUFFIX,xiaohongshu.com
+#DOMAIN-SUFFIX,bilibili.com
+#DOMAIN-SUFFIX,deepseek.com
+#DOMAIN-SUFFIX,jd.com
+#DOMAIN-SUFFIX,taobao.com
+#DOMAIN-SUFFIX,pinduoduo.com
 #科技
-DOMAIN-SUFFIX,speedtest.cn
+#DOMAIN-SUFFIX,speedtest.cn
